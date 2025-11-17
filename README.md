@@ -10,8 +10,8 @@
    - לחצו "Add people" והוסיפו את המייל או היוזר של כל חברי הקבוצה שלכם.
    - ודאו שכולם אישרו את ההזמנה במייל
      .
-1. **התחברות ל-lovable**
-
+     
+2. **התחברות ל-lovable**
 **אל תיצרו חשבון חדש ואל תשתמשו בחשבון פרטי!**
 כדי ליהנות מרישיון ה-Pro של ההאקתון, עליכם לפעול כך:
 
@@ -21,10 +21,10 @@
 
 🔗 **לינק לכניסה (רק אחרי שאישרתם במייל):** https://lovable.dev/login
 
-2. **הקימו את התשתית:**
+3. **הקימו את התשתית**
    - עקבו אחר ההוראות בקובץ [SETUP_GUIDE.md](./SETUP_GUIDE.md) כדי לחבר את Lovable ל-Supabase.
 
-3. **התחילו לעבוד:**
+4. **התחילו לעבוד**
    - קראו את אתגר הסדנה בקובץ [THE_CHALLENGE.md](./THE_CHALLENGE.md).
    - חלקו משימות ביניכם באמצעות הקובץ [TASKS.md](./TASKS.md).
 
