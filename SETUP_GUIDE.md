@@ -1,0 +1,31 @@
+# 🛠️ מדריך חיבור סביבות עבודה (Lovable + Supabase)
+
+בצעו את השלבים הבאים כדי לחבר את "המוח" (Supabase) ל"פנים" (Lovable) של האפליקציה.
+
+### שלב 1: הקמת בסיס נתונים (Supabase)
+*מבוצע ע"י נציג אחד מהקבוצה.*
+
+1. היכנסו ל-[Supabase](https://supabase.com) והתחברו עם חשבון ה-GitHub שלכם.
+2. לחצו על **New Project**.
+3. בחרו את הארגון שיצרתם בהרשמה.
+4. **Name:** תנו שם לאפליקציה (באנגלית, ללא רווחים).
+5. **Password:** לחצו על "Generate a password" ו**שמרו אותה בצד!**
+6. **Region:** בחרו Frankfurt או London (הכי קרוב לישראל).
+7. **Pricing Plan:** ודאו שנבחר **Free** ($0).
+8. לחצו על **Create new project**.
+
+### שלב 2: חיבור ל-Lovable
+
+1. בזמן ש-Supabase מכין את הפרויקט (זה לוקח דקה), היכנסו ל-Lovable.
+2. התחברו (Login) וצרו פרויקט חדש.
+3. בתפריט הצד ב-Lovable, חפשו את **Supabase** או **Settings > Integrations**.
+4. המערכת תבקש מכם שני מפתחות: **Project URL** ו-**Anon Key**.
+
+### שלב 3: העתקת המפתחות
+
+1. חזרו ל-Supabase.
+2. גשו ל-**Project Settings** (אייקון גלגל שיניים למטה) -> **API**.
+3. העתיקו את **Project URL** והדביקו ב-Lovable.
+4. העתיקו את **Project API keys (anon / public)** והדביקו ב-Lovable.
+
+✅ **זהו! האפליקציה שלכם מחוברת לבסיס נתונים.**
