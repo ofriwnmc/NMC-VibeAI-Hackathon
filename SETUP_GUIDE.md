@@ -52,6 +52,7 @@ Action required:
 Update the supabaseClient.ts (or wherever the client is initialized) to use THESE values explicitly.
 Stop using mock data.
 Redeploy/Refresh the app so I can test the connection
+
 בצעו מחדש את פעולת שמירת הנתונים ובדקו פעם נוספת את המידע בsupabase וודאו כי כעת הוא נשמר- אם לא פנו לעזרה מהמדריך. 
 
 ✅ **זהו! האפליקציה שלכם מחוברת לבסיס נתונים.**
