@@ -65,4 +65,5 @@ Redeploy/Refresh the app so I can test the connection
 3. בחרו ברשימה את הפרויקט שיצרתם על בסיס הטמפלייט.
 
 ✅ סטטוס: הכל מחובר! Lovable יודע לשמור את הקוד ב-GitHub ואת המידע ב-Supabase.
-חיזרו לקובץ ההנחיות והמשיכו הלאה https://github.com/ofriwnmc/NMC-VibeAI-Hackathon/blob/main/README.md
+חיזרו לקובץ ההנחיות והמשיכו הלאה [README.md](./README.md) 
+
